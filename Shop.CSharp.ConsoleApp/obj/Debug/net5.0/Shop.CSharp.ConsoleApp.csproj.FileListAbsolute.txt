@@ -1,0 +1,16 @@
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\bin\Debug\net5.0\Shop.CSharp.ConsoleApp.exe
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\bin\Debug\net5.0\Shop.CSharp.ConsoleApp.deps.json
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\bin\Debug\net5.0\Shop.CSharp.ConsoleApp.runtimeconfig.json
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\bin\Debug\net5.0\Shop.CSharp.ConsoleApp.runtimeconfig.dev.json
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\bin\Debug\net5.0\Shop.CSharp.ConsoleApp.dll
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\bin\Debug\net5.0\ref\Shop.CSharp.ConsoleApp.dll
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\bin\Debug\net5.0\Shop.CSharp.ConsoleApp.pdb
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\obj\Debug\net5.0\Shop.CSharp.ConsoleApp.csprojAssemblyReference.cache
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\obj\Debug\net5.0\Shop.CSharp.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\obj\Debug\net5.0\Shop.CSharp.ConsoleApp.AssemblyInfoInputs.cache
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\obj\Debug\net5.0\Shop.CSharp.ConsoleApp.AssemblyInfo.cs
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\obj\Debug\net5.0\Shop.CSharp.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\obj\Debug\net5.0\Shop.CSharp.ConsoleApp.dll
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\obj\Debug\net5.0\ref\Shop.CSharp.ConsoleApp.dll
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\obj\Debug\net5.0\Shop.CSharp.ConsoleApp.pdb
+D:\Informatyka\Capgemini\C#\test repos\Shop.CSharp.ConsoleApp\Shop.CSharp.ConsoleApp\obj\Debug\net5.0\Shop.CSharp.ConsoleApp.genruntimeconfig.cache
